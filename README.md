@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oumaima-ben-abdessalem a computer science engineering student in my final year.
 - 👀 I’m interested in Web development technologies and databases
 - 🌱 I’m currently learning about kafka, elasticsearch and mongoDB
-- 💞️ I’m looking for an internship for my end of studies project 
 - 📫 How to reach benabdessalemoumaima@gmail.com 
 
 <!---
